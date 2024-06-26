@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reveritus
 - 👀 I’m interested in reverse engineering of Android apps
-- 💞️ I’m looking to collaborate on FTN node for Android
+- 💞️ I’m looking to collaborate for Android
 - 📫 How to reach me? Here!
 
 <!---
