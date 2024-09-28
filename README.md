@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Reveritus
 - 👀 I’m interested in reverse engineering of Android apps
-- 💞️ I’m looking to collaborate for Android
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me? Here!
 
 <!---
